@@ -1,0 +1,48 @@
+﻿<Window x:Class="Microsoft.Samples.Kinect.ControlsBasics.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Microsoft.Samples.Kinect.ControlsBasics"
+        Name="ControlsBasicsWindow"
+        Title="Controls Basics"
+        Closing="WindowClosing"
+        mc:Ignorable="d"
+        d:DesignWidth="1200"
+        MinWidth="500"
+        MinHeight="700"
+        FontFamily="Segoe UI" MaxWidth="1300" MaxHeight="730" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Height="753.731">
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0"  Margin="10 0 10 20">
+            <Image HorizontalAlignment="Left" VerticalAlignment="Bottom" Source="Images\Logo.png" Stretch="None" Margin="0 0 0 4"/>
+            <Image x:Name="C1" Height="100" Loaded="WindowLoaded" VerticalAlignment="Top" Margin="528,0,522,0"/>
+            <k:KinectUserViewer k:KinectRegion.KinectRegion="{Binding ElementName=kinectRegion}" Height="150" HorizontalAlignment="Center" VerticalAlignment="Top" />
+            <k:KinectSensorChooserUI HorizontalAlignment="Center" VerticalAlignment="Top" x:Name="sensorChooserUi" />
+            <TextBlock HorizontalAlignment="Right" Margin="0 0 -1 0" VerticalAlignment="Bottom" Foreground="{StaticResource MediumGreyBrush}" FontSize="18"><Run Text="Gesto cuadrado"/></TextBlock>
+            <TextBlock HorizontalAlignment="Right" Margin="0,0,299,-5" VerticalAlignment="Bottom" Foreground="{StaticResource MediumGreyBrush}" FontSize="18"><Run Text="Para comenzar cierra el puño y mueve la mano hacia la derecha o hacia abajo"/></TextBlock>
+        </Grid>
+        <k:KinectRegion Grid.Row="1" x:Name="kinectRegion" Margin="0,0,0,-33">
+            <WrapPanel VerticalAlignment="Top" x:Name="wrapPanel" Orientation="Vertical" k:KinectRegion.HandPointerGrip="mano_cerrada" k:KinectRegion.HandPointerGripRelease="mano_abierta" k:KinectRegion.HandPointerMove="comprobarGesto" k:KinectRegion.HandPointerLeave="mano_out">
+                <!-- items for design layout.  They will be replaced at runtime. -->
+                <k:KinectTileButton x:Name="tile" Height="450" Width="1426" IsHitTestVisible="True" Click="tile_Click" />
+                <!-- items for design layout.  They will be replaced at runtime. -->
+                <Viewbox Grid.Row="1" Stretch="Uniform" HorizontalAlignment="Center"/>
+            </WrapPanel>
+        </k:KinectRegion>
+
+       
+
+
+        <Grid Margin="35,34,685,205" Grid.Row="1">
+            <Image Name="ImageColor"  Margin="736,13,-651,-81"/>
+            <Image x:Name="Image"  Visibility="Visible"  Margin="736,13,-651,-81"/>
+        </Grid>
+    </Grid>
+</Window>
