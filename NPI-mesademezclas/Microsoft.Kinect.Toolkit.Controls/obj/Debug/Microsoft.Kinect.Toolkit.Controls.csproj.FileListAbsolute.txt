@@ -1,0 +1,48 @@
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb

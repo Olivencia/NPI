@@ -1,0 +1,382 @@
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Cristobal\Dropbox\Universidad\En curso\Nuevos Paradigmas de Interacción\Prácticas\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Milanto\Desktop\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Milanto\Desktop\ControlBasics - EDITANDO 2\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO FINAL - Copy\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Teo\Dropbox\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Teo\Dropbox\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Milanto\Dropbox\Compartida\NPI\FUNCIONANDO\ControlBasics - EDITANDO GESTOS FUNCIONANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Teo\Dropbox\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\Interop.WMPLib.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\prob\ControlBasics - gestocuadrado\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.ResolveComReference.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMPLib.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.ResolveComReference.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMLSS.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMPRichPreviewLauncher.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMLSS.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMPLib.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMPRichPreviewLauncher.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.ResolveComReference.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 2 - EDITANDO\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMLSS.dll
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMPLib.dll
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Interop.WMPRichPreviewLauncher.dll
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.ResolveComReference.cache
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Cristol\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cristobal\Dropbox\Compartida\NPI\Práctica 1 - copia\ControlBasics - EDITANDO\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_Content.g.cs
+C:\Users\Teo\Dropbox\NPI\Práctica 2\ControlBasics - Mesa de mezclas\ControlsBasics-WPF\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Teo\Dropbox\NPI\Práctica 2\ControlBasics - Mesa de mezclas\ControlsBasics-WPF\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Teo\Dropbox\NPI\Práctica 2\ControlBasics - Mesa de mezclas\ControlsBasics-WPF\obj\Debug\Interop.WMLSS.dll
+C:\Users\Teo\Dropbox\NPI\Práctica 2\ControlBasics - Mesa de mezclas\ControlsBasics-WPF\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\Teo\Dropbox\NPI\Práctica 2\ControlBasics - Mesa de mezclas\ControlsBasics-WPF\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\Teo\Dropbox\NPI\Práctica 2\ControlBasics - Mesa de mezclas\ControlsBasics-WPF\obj\Debug\Interop.WMPLib.dll
+C:\Users\Teo\Dropbox\NPI\Práctica 2\ControlBasics - Mesa de mezclas\ControlsBasics-WPF\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\Teo\Dropbox\NPI\Práctica 2\ControlBasics - Mesa de mezclas\ControlsBasics-WPF\obj\Debug\Interop.WMPRichPreviewLauncher.dll
+C:\Users\Teo\Dropbox\NPI\Práctica 2\ControlBasics - Mesa de mezclas\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.ResolveComReference.cache
+C:\Users\Teo\Dropbox\NPI\Práctica 2\ControlBasics - Mesa de mezclas\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Teo\Dropbox\NPI\Práctica 2\ControlBasics - Mesa de mezclas\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb

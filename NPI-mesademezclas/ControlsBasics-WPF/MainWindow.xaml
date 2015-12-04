@@ -1,0 +1,98 @@
+﻿<Window x:Class="Microsoft.Samples.Kinect.ControlsBasics.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Microsoft.Samples.Kinect.ControlsBasics"
+        Name="ControlsBasicsWindow"
+        Title="Controls Basics"
+        Closing="WindowClosing"
+        mc:Ignorable="d"
+        d:DesignWidth="1080"
+        MinWidth="588"
+        MinHeight="588"
+        ResizeMode="NoResize"
+        FontFamily="Segoe UI" MaxWidth="1100" MaxHeight="800"  WindowStartupLocation="CenterScreen" Height="753.731">
+
+
+    <Grid>
+
+
+
+        <Grid>
+            <k:KinectRegion x:Name="kinectRegion" Margin="-11,0,11,-33">
+                <WrapPanel VerticalAlignment="Center"  x:Name="wrapPanel" Orientation="Vertical" k:KinectRegion.HandPointerGrip="mano_cerrada" k:KinectRegion.HandPointerGripRelease="mano_abierta" k:KinectRegion.HandPointerMove="comprobarGesto" k:KinectRegion.HandPointerLeave="mano_out">
+                    <k:KinectTileButton x:Name="tile"  Click="tile_Click" Height="728" Width="1079" Foreground="Purple">
+                        <k:KinectTileButton.Background>
+                            <ImageBrush ImageSource="Images/imagenbase.png"/>
+                        </k:KinectTileButton.Background>
+
+                        <Grid>
+                            <Grid Margin="10,4,-10,-4">
+                                <TextBlock Name="song1" FontFamily="Century Gothic" Foreground="Orange" Margin="31,20,829,599"></TextBlock>
+                            </Grid>
+                            <Grid Margin="10,4,-10,-4">
+                                <TextBlock Name="time1" FontFamily="Century Gothic" Foreground="Orange" Margin="228,20,751,599"></TextBlock>
+                            </Grid>
+                            <Grid Margin="10,4,-10,-4">
+                                <TextBlock Name="song2" FontFamily="Century Gothic" Foreground="Blue" Margin="719,11,150,599"></TextBlock>
+                            </Grid>
+                            <Grid Margin="10,4,-10,-4">
+                                <TextBlock Name="time2" FontFamily="Century Gothic" Foreground="Blue" Margin="938,17,41,599"></TextBlock>
+                            </Grid>
+
+
+                            <Canvas x:Name="myCanvas">
+                                <Image x:Name="central"  VerticalAlignment="Bottom" Source="Images\botóncentro.png" Stretch="Fill" Height="80" Width="45" Canvas.Left="518" Canvas.Top="599" />
+                            </Canvas>
+                          
+                                <Image x:Name="vinilo1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  RenderTransformOrigin=".5,.5" Source="Images\disco1.png" Stretch="Fill"  Height="400" Width="400" Canvas.Left="9" Canvas.Top="41" Margin="4,70,675,189" />
+                                <Image x:Name="vinilo2" VerticalAlignment="Bottom" Source="Images\disco2.png" Stretch="Fill" Height="400" Width="400" Canvas.Left="670" Canvas.Top="45" Margin="663,0,4,189"  />
+                           
+                            <Grid Margin="4,25,-4,-25">
+
+                                <Image x:Name="play_1"  VerticalAlignment="Bottom" Source="Images\play1.png" Stretch="Fill"  Margin="130,0,806,-2" Height="110" Width="137"  />
+                                <Image x:Name="fastforward_1"  VerticalAlignment="Bottom" Source="Images\fastforward1.png" Stretch="Fill"  Margin="266,0,670,-3" Height="110" Width="137"  />
+                                <Image x:Name="fastprevious_1"  VerticalAlignment="Bottom" Source="Images\fastprevious1.png" Stretch="Fill"  Margin="-5,0,941,-1" Height="110" Width="137"  />
+                                <Image x:Name="loop_1"  VerticalAlignment="Bottom" Source="Images\loop.png" Stretch="Fill"  Margin="358,0,621,126" Height="100" Width="100"  />
+                                <Image x:Name="barra_horizontal1"  VerticalAlignment="Bottom" Source="Images\barrahorizontal.png" Stretch="Fill"  Margin="-10,0,689,68" Height="200" Width="400"  />
+                                <Image x:Name="masmenos1"  VerticalAlignment="Bottom" Source="Images\masmenos.png" Stretch="Fill"  Margin="400,0,564,233" Height="350" Width="100"  />
+                                <Canvas>
+                                    <Image x:Name="central1"  VerticalAlignment="Bottom" Source="Images\botóncentro.png" Stretch="Fill" Height="80" Width="40" Canvas.Left="165" Canvas.Top="459" />
+                                </Canvas>
+
+                                <Image x:Name="play_2"   VerticalAlignment="Bottom" Source="Images\play2.png" Stretch="Fill"  Margin="804,0,132,-2" Height="110" Width="137"  />
+                                <Image x:Name="fastforward_2"   VerticalAlignment="Bottom" Source="Images\fastforward2.png" Stretch="Fill"  Margin="940,0,-4,-2" Height="110" Width="137"  />
+                                <Image x:Name="fastprevious_2"  VerticalAlignment="Bottom" Source="Images\fastprevious2.png" Stretch="Fill"  Margin="668,0,268,-1" Height="110" Width="137"  />
+                                <Image x:Name="loop_2"  VerticalAlignment="Bottom" Source="Images\loop.png" Stretch="Fill"  Margin="599,0,380,126" Height="100" Width="100"  />
+                                <Image x:Name="barra_horizontal2"  VerticalAlignment="Bottom" Source="Images\barrahorizontal.png" Stretch="Fill"  Margin="675,0,4,68" Height="200" Width="400"  />
+                                <Image x:Name="masmenos2"  VerticalAlignment="Bottom" Source="Images\masmenos.png" Stretch="Fill"  Margin="535,0,389,233" Height="350" Width="100"  />
+
+                                <Canvas>
+                                    <Image x:Name="central2"  VerticalAlignment="Bottom" Source="Images\botóncentro.png" Stretch="Fill" Height="80" Width="40" Canvas.Left="854" Canvas.Top="457" />
+                                </Canvas>
+                                <Image x:Name="restore" Visibility="Hidden" VerticalAlignment="Bottom" Source="Images\restore.png" Stretch="Fill"  Margin="487,-41,492,600" Height="100" Width="100"  />
+                                <Image x:Name="exit" Visibility="Hidden"  VerticalAlignment="Bottom" Source="Images\cruz.png" Stretch="Fill"  Margin="1013,-60,6,659" Height="60" Width="60"  />
+
+                            </Grid>
+                            <Grid Margin="10,4,-10,-4">
+                                <TextBlock Name="rate_1" FontFamily="Century Gothic" Foreground="Black" Margin="442,247,566,372">1</TextBlock>
+                            </Grid>
+                            <Grid Margin="10,4,-10,-4">
+                                <TextBlock Name="rate_2" FontFamily="Century Gothic" Foreground="Black" Margin="596,246,413,373">1</TextBlock>
+                            </Grid>
+
+                        </Grid>
+                    </k:KinectTileButton>
+                    <Viewbox Grid.Row="1" Stretch="Uniform" HorizontalAlignment="Center"/>
+                </WrapPanel>
+            </k:KinectRegion>
+
+        </Grid>
+
+
+
+    </Grid>
+
+</Window>
