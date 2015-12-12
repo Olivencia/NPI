@@ -1,6 +1,8 @@
 # NPI-mesademezclas
 
-Aplicación sobre una mesa de mezclas sencilla desarrollada con Kinect.
+Aplicación sobre una mesa de mezclas con interfaz sencilla desarrollada con Kinect.
+
+!["Mesa de mezclas"](http://i842.photobucket.com/albums/zz349/cristoly/mesa%20mezclas_zpsvnlon0vh.png)
 
 #Notas
 
