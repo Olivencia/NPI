@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PuntoMovimientoSonido</string>
+    <string name="hola">BIENVENIDO!\nCON ESTA APLICACION PUEDES SIMULAR UN SABLE LASER!\nPUEDES ENCENDERLO Y MOVERLO TANTO DESPACIO COMO FUERTE O APAGARLA.\nPULSA EL BOTON PARA EMPEZAR\n\nQUE LA FUERZA TE ACOMPAÑE!</string>
+    <string name="start">START</string>
+</resources>
+

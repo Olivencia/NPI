@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PuntoGPSQR</string>
+    <string name="welcome">Bienvenido! Pulsa el boton QR CODE para escanear un codigo QR y ser redireccionado hasta el punto integrado del codigo QR.</string>
+
+    <string name="notas">Si no tienes un Lector QR, puedes descargar uno. Los datos del codigo QR tienen que estar el formato LATITUD_[(0-9)*.(0-9)*]_LONGITUD_[(0-9)*.(0-9)*]</string>
+</resources>

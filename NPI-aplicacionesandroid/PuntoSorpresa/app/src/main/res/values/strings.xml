@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PuntoSorpresa</string>
+    <string name="hola">Bienvenido! Tienes que acercar la mano a la parte superior de la pantalla tras pulsar START!</string>
+    <string name="start">START</string>
+</resources>
